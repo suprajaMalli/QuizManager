@@ -1,0 +1,3 @@
+The primitive data type _____ would be most appropriate for reflecting characters in Unicode.
+Which of these access specifiers must be used for main() method?
+What is class?

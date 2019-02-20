@@ -1,0 +1,3 @@
+What is JRE?
+Method Overriding is an example of
+What invokes a thread run() method?
